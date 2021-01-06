@@ -27,7 +27,8 @@ nav img {
 nav li {
     display: inline-block;
     margin-top: 35px;
-    margin-left: 90px;
+    margin-left: 60px;
+    font-size: 20px;
 }
 
 a {
@@ -43,7 +44,7 @@ main {
 }
 
 main li {
-    /* list-style: none; */
+
     float: left;
     margin: 30px 30px 30px 0px;
 }
@@ -58,13 +59,12 @@ section img {
     float: left;
 }
 
- /* makes width 450px */
 section div {
-    width: calc(50% - 30px);
+    width: 45%;
     float: left;
     padding-left: 30px;
     margin-bottom: 30px;
-    /* outline: 1px solid red; */
+
 }
 
 section h2 {
